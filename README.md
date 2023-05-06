@@ -1,2 +1,1 @@
-# RepositorioNuevo
-Este es un repositorio de aprendizaje 
+ Este proyecto es un repositorio para el aprendizaje de como crear o clonar un repositorio. 
